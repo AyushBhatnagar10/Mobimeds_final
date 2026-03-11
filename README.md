@@ -73,3 +73,11 @@ To set up the database for this project, follow these steps:
 Aarav Desai
 <br>
 Ayush Bhatnagar
+
+## Project Note
+
+This project was built in Class 12 as part of an innovative school project.
+If GitHub contributor stats show only one contributor, that does not reflect the full collaboration.
+Both Aarav Desai and Ayush Bhatnagar worked on this project together.
+Ayush mainly handled the backend side, including SQL database and table creation.
+Aarav mainly handled the Python application layer, including Tkinter UI and Pillow-related work.
